@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Qan təzyiqi",
+    "answers": [
+      { "answer": "160-dan yuxarı", "point": 3 },
+      { "answer": "140-160", "point": 2 },
+      { "answer": "120-140", "point": 1 }
+    ]
+  },
+  {
+    "question": "Xolesterin",
+    "answers": [
+      { "answer": "240 və ya bilmirəm", "point": 3 },
+      { "answer": "200-239", "point": 2 },
+      { "answer": "200", "point": 1 }
+    ]
+  },
+  {
+    "question": "Şəkərli diabet",
+    "answers": [
+      { "answer": "var", "point": 3 },
+      { "answer": "sərhəddədir", "point": 2 },
+      { "answer": "yoxdur", "point": 1 }
+    ]
+  },
+  {
+    "question": "Siqaret istifadəsi",
+    "answers": [
+      { "answer": "İstifadə edirəm", "point": 3 },
+      { "answer": "İstifadə etməməyə çalışıram", "point": 2 },
+      { "answer": "İstifadə etmirəm", "point": 1 }
+    ]
+  },
+  {
+    "question": "Ürək ritminin pozulması",
+    "answers": [
+      { "answer": "Nizamsızdır", "point": 3 },
+      { "answer": "Bilmirəm", "point": 2 },
+      { "answer": "Nizamlıdır", "point": 1 }
+    ]
+  },
+  {
+    "question": "Qidalanma",
+    "answers": [
+      { "answer": "Artıq çəkiliyəm", "point": 3 },
+      { "answer": "Artıq çəki azdır - normaya yaxındır", "point": 2 },
+      { "answer": "Normal çəki", "point": 1 }
+    ]
+  },
+  {
+    "question": "Həyat tərzi",
+    "answers": [
+      { "answer": "Passiv ", "point": 3 },
+      { "answer": "Nadir hallarda idman edirəm", "point": 2 },
+      { "answer": "Fəal həyat tərzi", "point": 1 }
+    ]
+  },
+  {
+    "question": "Ailədə iflic olan varmı?",
+    "answers": [
+      { "answer": "Bəli", "point": 3 },
+      { "answer": "Bilmirəm", "point": 2 },
+      { "answer": "Xeyr", "point": 1 }
+    ]
+  }
+]

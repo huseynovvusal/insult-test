@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(45deg, #342bb9, #4339ce);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  padding: 0 10%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+  background: -webkit-gradient(linear, left top, left bottom, from(0), color-stop(rgba(0, 0, 0, 0.75)), to(rgba(0, 0, 0, 0.1))), url("../img/background.jpg");
+  background: linear-gradient(0, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.1)), url("../img/background.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 0 1rem;
+  }
+}
+
+body h1,
+body p {
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+body a {
+  color: #fff;
+  background: #342bb9;
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  -webkit-transition: 300ms;
+  transition: 300ms;
+}
+
+body a:hover {
+  background: #4339ce;
+}
+/*# sourceMappingURL=main.css.map */
